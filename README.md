@@ -8,7 +8,7 @@ This repository contains the code for my personal sample portfolio website.
 
 
 ## Contact
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-muhammadhasnat786/)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/muhammadhasnat786/)
 - **GitHub:** [GitHub Profile](https://github.com/smokemh)
 
 Feel free to explore and contact me for any inquiries or collaborations.

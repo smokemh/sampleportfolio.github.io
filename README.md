@@ -4,7 +4,7 @@ This repository contains the code for my personal sample portfolio website.
 
 ## Overview
 
-- **Live Demo:** [Portfolio Link]([https://your-portfolio-link](https://smokemh.github.io/sampleportfolio.github.io/#))
+- **Live Demo:** [Portfolio Link]([(https://smokemh.github.io/sampleportfolio.github.io/)])
 
 
 ## Contact
